@@ -1,7 +1,7 @@
-## # Hi ðŸ‘‹, I'm Carlos Martins
+## # Hi, I'm Carlos Martins
 
-ðŸš€ **Senior Software Engineer | JavaScript & .NET Specialist**  
-ðŸ‡§ðŸ‡· Brazil
+ **Senior Software Engineer | JavaScript & .NET Specialist**  
+· Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
 Iâ€™m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
@@ -10,7 +10,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ---
 
-## ðŸŒ Where to find me
+##  Where to find me
 
 <p align="left">
   <a href="https://github.com/carlosmartins23-bit">
@@ -23,7 +23,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ---
 
-## ðŸ§  What I do
+##   What I do
 
 -   ðŸ—ï¸ SaaS & High-scale systems
 -   âš¡ Performance optimization
@@ -36,7 +36,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+##  ï¸ Tech Stack
 
 ### Frontend
 
@@ -67,7 +67,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ---
 
-## ðŸ“Š GitHub Stats
+##  GitHub Stats
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=carlosmartins23-bit&show_icons=true&theme=tokyonight&count_private=true" />
@@ -76,12 +76,12 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ---
 
-## ðŸš€ Philosophy
+##  Philosophy
 
 > _"Code is not just about solving problems.  
 > It's about building solutions that scale, last, and generate real value."_
 
 ---
 
-â­ If you like my work, consider starring a repository  
-ðŸ¤ Always open to collaborations, partnerships, and cool ideas
+ If you like my work, consider starring a repository  
+ Always open to collaborations, partnerships, and cool ideas
